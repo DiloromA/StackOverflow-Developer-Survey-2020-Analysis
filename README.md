@@ -3,12 +3,12 @@
 ### Overview
 For ten years now, StackOverflow  has been conducting an annual Developer Survey. Survey results have been made publicly available, and they have been analyzed from many different corners to bring light into a developer profile and trends in the industry. 
 
-As a developer, I am a frequent user of StackOverflow, and always find it very helpful. I have specific questions that I want to find out answers to by analaysing the latest Developer Survey result as of now (October, 2020). This survey was conducted in February 2020, right before the whole world entered the Covid-19 quarantine. I would be interested to compare what have changed since then in developers' profession and life in the upcoming survey. 
+As a developer, I am a frequent user of StackOverflow, and always find it very helpful. I have specific questions that I want to find out answers to by analysing the latest Developer Survey result as of now (October, 2020). This survey was conducted in February 2020, right before the whole world entered the Covid-19 quarantine. I would be interested to compare what have changed since then in developers' profession and life in the upcoming survey. 
 
 ### Questions to explore:
-1. What is the most popular database?
-2. Who visits StackOverflow most?
-3. What is the most important job factor for developers?
+1. What is the most popular database in 2020?
+2. A profile of a StackOverflow heavy-users?
+3. What is the most important job factor for developers in 2020?
 
 [Analysing Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey)
 
