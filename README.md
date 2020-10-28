@@ -7,7 +7,7 @@ As a developer, I am a frequent user of StackOverflow, and always find it very h
 
 ### Questions to explore:
 1. What is the most popular database in 2020?
-2. A profile of a StackOverflow heavy-users?
+2. What is the profile of StackOverflow heavy-users?
 3. What is the most important job factor for developers in 2020?
 
 [Analysing Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey)
