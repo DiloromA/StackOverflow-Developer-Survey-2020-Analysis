@@ -17,4 +17,4 @@ My analysis process consists of three parts:
 2. **Data Preparation** - where I clean, tidy and transform the data set.
 3. **Data Analysis** - where I conduct analysis and find answers to my research questions.
 
-[Link to my blogpost explaining the analysis](https://dilorom.medium.com/who-is-driving-traffic-to-stackoverflow-af1ccff251bb.
+[Link to my blogpost explaining the analysis](https://dilorom.medium.com/who-is-driving-traffic-to-stackoverflow-af1ccff251bb).
