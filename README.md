@@ -12,7 +12,7 @@ As a developer, I am a frequent user of StackOverflow, and always find it very h
 
 [Analysing Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey)
 
-My analysis process is consists of three parts: 
-1. **Data Exploration** - where I explore the data set and its attributes;
-2. **Data Preparation** - where I clean, tidy and transform the data set;
+My analysis process consists of three parts: 
+1. **Data Exploration** - where I explore the data set and its attributes.
+2. **Data Preparation** - where I clean, tidy and transform the data set.
 3. **Data Analysis** - where I conduct analysis and find answers to my research questions.
