@@ -7,14 +7,14 @@ As a developer, I am a frequent user of StackOverflow, and always find it very h
 
 ### Questions to explore:
 1. What is the most popular database in 2020?
-2. What is the profile of StackOverflow heavy-users?
+2. What is the profile of a StackOverflow frequent user?
 3. What is the most important job factor for developers in 2020?
 
 [Analysing Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey)
 
 My analysis process consists of three parts: 
-1. **Data Exploration** - where I explore the data set and its attributes.
-2. **Data Preparation** - where I clean, tidy and transform the data set.
+1. **Data Exploration** - where I explore the dataset and its attributes.
+2. **Data Preparation** - where I clean, tidy and transform the dataset.
 3. **Data Analysis** - where I conduct analysis and find answers to my research questions.
 
 [Link to my blogpost explaining the analysis](https://dilorom.medium.com/who-is-driving-traffic-to-stackoverflow-af1ccff251bb).
