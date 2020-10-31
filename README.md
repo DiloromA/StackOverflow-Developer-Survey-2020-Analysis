@@ -42,7 +42,7 @@ This project contains:
 ### Summary
 MySQL, PostgreSQL, and MS SQL Server are the most popular databases. MongoDB and Redis are rising to a higher demand in the next year.
 
-StackOverflow frequent user is a young male who is a developer by profession with about five years of professional coding experience who also likes to code as a hobby and has been coding for about ten years in general, and is from the North America , India or Europe, has a stable job, but is open to new opportunities.
+StackOverflow frequent user is a young male who is a developer by profession with about five years of professional coding experience who also likes to code as a hobby, and has been coding for about ten years in general, and is from the North America , India or Europe, has a stable job, but is open to new opportunities.
 
 When considering a job, developers focus on technical languages, frameworks, and technology that they will be working with. They also value office environment, company culture, flexible time, flexible schedule, professional development, and remote work options.
 
